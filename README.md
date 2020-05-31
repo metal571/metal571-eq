@@ -1,1 +1,1 @@
-# metal571-eq
+# metal571's EQ Profiles for EqualizerAPO
