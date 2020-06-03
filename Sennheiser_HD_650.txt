@@ -1,7 +1,7 @@
 Channel: all
-Preamp: -7 dB
+Preamp: -8 dB
 Filter 1: ON PK Fc 23 Hz Gain 2.5 dB Q 1.6
-Filter 2: ON LS Fc 70 Hz Gain 4.5 dB
+Filter 2: ON LS Fc 70 Hz Gain 5.5 dB
 Filter 3: ON PK Fc 210 Hz Gain -2 dB Q 1.1
 Filter 4: ON PK Fc 3000 Hz Gain -3 dB Q 3
 Filter 5: ON PK Fc 5000 Hz Gain -3 dB Q 3
