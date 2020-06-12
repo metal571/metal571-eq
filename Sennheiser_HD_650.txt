@@ -1,3 +1,14 @@
+# metal571 Sennheiser HD 650
+#
+# NOTES:
+# This is a hybrid between the oratory1990 setting in the bass, 
+# just with less boost, and my own upper midrange settings by ear.
+# You can set Filter 2 to taste, but you have to decrease the preamp
+# to compensate. i.e. Filter 2 7.5 dB will require preamp to be -10 dB.
+# If you go too far on this filter, you will cause some annoying 
+# harmonic distortion since this is an old school open dynamic design,
+# and not a sealed front volume open back planar magnetic.
+
 Channel: all
 Preamp: -8 dB
 Filter 1: ON PK Fc 23 Hz Gain 2.5 dB Q 1.6
