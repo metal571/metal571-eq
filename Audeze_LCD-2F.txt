@@ -1,4 +1,4 @@
-# metal571 LCD-2F rev 2016+
+# metal571 Audeze LCD-2F rev 2016+
 #
 # NOTES:
 # This is based loosely on the Reveal+ preset, but with more upper mids and 
