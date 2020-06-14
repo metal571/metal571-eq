@@ -1,10 +1,10 @@
 # metal571 AKG K371
 #
 # NOTES:
-# Based loosely on some filters by oratory1990, just simplified, and
-# no air boost high shelf at 10k. It's also obviously...got less
-# upper mids and sibilance region from 5-7k. Because of course it 
-# does. I'm metal571 and I like warm things.
+# Based loosely on some filters by oratory1990, just simplified, and no air
+# boost high shelf at 10k. It's also obviously...got less upper mids and
+# sibilance region from 5-7k. Because of course it does. I'm metal571 and I
+# like warm things.
 
 Channel: all
 Filter 1: ON PK Fc 170 Hz Gain -2 dB Q 1.2

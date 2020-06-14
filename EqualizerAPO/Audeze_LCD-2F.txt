@@ -1,13 +1,13 @@
 # metal571 Audeze LCD-2F rev 2016+
 #
 # NOTES:
-# This is based loosely on the Reveal+ preset, but with more upper mids and 
+# This is based loosely on the Reveal+ preset, but with more upper mids and
 # instead of adding 9k in between, we kill 6k and 11k peaks by ear instead.
-# Adjust Filter 1 to taste, to a maximum of 5.5 dB (Harman OE target). If 
-# you want to go higher, you'll have to adjust the preamp, i.e. Filter 1 
-# 6 dB, then preamp -6 dB. Preamp needs to attentuate by at least 5.5 dB 
-# though in order to avoid compression due to the upper midrange boost
-# this headphone needs in order to sound normal.
+# Adjust Filter 1 to taste, to a maximum of 5.5 dB (Harman OE target). If you
+# want to go higher, you'll have to adjust the preamp, i.e. Filter 1 6 dB, then
+# preamp -6 dB. Preamp needs to attentuate by at least 5.5 dB though in order
+# to avoid compression due to the upper midrange boost this headphone needs in
+# order to sound normal.
 
 Channel: all
 Preamp: -5.5 dB
