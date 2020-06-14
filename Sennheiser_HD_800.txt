@@ -1,0 +1,16 @@
+# metal571 Sennheiser HD 800
+#
+# NOTES:
+# This uses oratory1990 settings in the bass, but -1 dB, and my current
+# preference for the mids and treble. This thing is still just as bright as
+# it's always been, and unbelievably capable of handling bass boosts despite
+# being an open dynamic.
+
+Channel: all
+Preamp: -6.5 dB
+Filter 3: ON LS Fc 42 Hz Gain 3 dB
+Filter 5: ON LS Fc 100 Hz Gain 3.5 dB
+Filter 6: ON PK Fc 200 Hz Gain -2.5 dB Q 0.8
+Filter 9: ON PK Fc 2000 Hz Gain 2 dB Q 1.41
+Filter 11: ON PK Fc 6000 Hz Gain -7 dB Q 2
+Filter 12: ON PK Fc 10000 Hz Gain -4.5 dB Q 2
