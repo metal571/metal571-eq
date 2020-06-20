@@ -1,0 +1,17 @@
+# metal571 Koss Porta Pro
+#
+# NOTES:
+# This one is tuned specifically for the Porta Pro mounted to the Parts Express
+# Mini Stereo Lightweight Headphones (Part # 240-015) with Yaxi (yaxi.jp)
+# earpads, which in my experience so far is the optimal Porta Pro setup. Bass
+# and low mids filters are directly borrowed from oratory1990, but by ear I
+# think this still needs some 2k killed. I simplified and tuned my own filter at
+# 5.5k by ear as well to kill the pesky low treble/sibilance region on these.
+
+Channel: all
+Preamp: -5 dB
+Filter 1: ON LS Fc 105 Hz Gain 5.5 dB
+Filter 2: ON PK Fc 100 Hz Gain -7 dB Q 0.35
+Filter 3: ON PK Fc 700 Hz Gain 0.5 dB Q 1
+Filter 4: ON PK Fc 2000 Hz Gain -3 dB Q 1.41
+Filter 5: ON PK Fc 5500 Hz Gain -5 dB Q 4
