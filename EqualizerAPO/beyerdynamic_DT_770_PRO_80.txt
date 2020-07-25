@@ -1,0 +1,21 @@
+# metal571 beyerdynamic DT 770 PRO 80 Ohm
+#
+# NOTES:
+# This one was a bit unexpected. Once the sibilance is removed by ear using my
+# trusty https://www.szynalski.com/tone-generator/, the upper mids were just
+# shouting my ear off, which ended up being 2.5k. Comparing that to oratory's
+# and Rtings' graphs, I guess that makes some sense. DT 770 never had a
+# reputation for having forward mids at all, but maybe the 80 ohm is a weird
+# one. Don't know, but this is what my ears told me to do. Also I've left it up
+# to you if you want to lower the truly giant bass shelf by adding a 105 Hz LS
+# filter and cutting dBs from there. But for me, some of the fun of owning this
+# thing is the massive sub bass, so I'll leave it like this for now. Oh, and
+# make sure your OEM EDT770V pads are absolutely brand new, or this won't
+# sound right.
+
+Channel: all
+Preamp: -4 dB
+Filter 1: ON PK Fc 200 Hz Gain 4 dB Q 2
+Filter 2: ON PK Fc 2500 Hz Gain -4 dB Q 4
+Filter 3: ON PK Fc 7000 Hz Gain -4 dB Q 4
+Filter 4: ON PK Fc 11000 Hz Gain -3 dB Q 4

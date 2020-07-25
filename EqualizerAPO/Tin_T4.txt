@@ -1,0 +1,11 @@
+# metal571 Tin HiFi T4
+#
+# NOTES:
+# Yeah, I don't know if it's Tin Audio or Tin HiFi anymore, so we'll just leave
+# that file name alone. Maybe crin should make a PR against my repo to fix that,
+# LOL. Anyway, this one is real simple, but VERY annoying to listen to on some
+# genres without this sibilance killer preset. I'm using the stock medium
+# silicones.
+
+Channel: all
+Filter 1: ON PK Fc 5500 Hz Gain -5 dB Q 3
