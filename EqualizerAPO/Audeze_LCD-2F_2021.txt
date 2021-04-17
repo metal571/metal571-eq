@@ -1,0 +1,21 @@
+# metal571 Audeze LCD-2F rev 2016+
+# Late (November) 2020+ non-memory-foam pads
+#
+# NOTES:
+# This profile is for genuine leather non-memory-foam pads and 2016 revision. If
+# your pads are memory foam (slow rebound) use the older "2018" profile.
+#
+# Adjust Filter 1 to taste. If you want to go higher, you'll have to adjust the
+# preamp, i.e. Filter 1 6 dB, then preamp -6 dB. Depending on your ear's
+# anatomy, Filters 5 and 6 may not be the correct center frequencies. Adjust as
+# needed, using what you hear when sweeping using a tool such as
+# https://www.szynalski.com/tone-generator/, but most importantly, music itself.
+
+Channel: all
+Preamp: -4 dB
+Filter 1: ON LS Fc 105 Hz Gain 4 dB
+Filter 2: ON PK Fc 800 Hz Gain -2 dB Q 0.8
+Filter 3: ON PK Fc 3000 Hz Gain 3 dB Q 1.41
+Filter 4: ON PK Fc 4000 Hz Gain 1 dB Q 3
+Filter 5: ON PK Fc 6000 Hz Gain -3.5 dB Q 3
+Filter 6: ON PK Fc 10500 Hz Gain -5 dB Q 3
