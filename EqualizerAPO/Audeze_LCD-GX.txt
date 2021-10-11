@@ -1,4 +1,5 @@
 # metal571 Audeze LCD-GX
+# Memory foam pleather pads (at least as far back as 2018 to late 2020)
 
 Channel: all
 Preamp: -5 dB

@@ -1,0 +1,15 @@
+# metal571 Brainwavz HM5
+# Stock flat pleather HM5 pads
+#
+# NOTES: via https://www.szynalski.com/tone-generator/, the actual frequency
+# peaks for filters 3 and 4 are 3800 Hz and 4900 Hz by ear for ME, but this will
+# very likely depend on your ear geometry so I've left them at 3500 and 5000 Hz.
+
+Channel: all
+Preamp: -2 dB
+Filter 1: ON PK Fc 180 Hz Gain -4 dB Q 0.8
+Filter 2: ON PK Fc 450 Hz Gain 3 dB Q 2
+Filter 3: ON PK Fc 3500 Hz Gain -2.5 dB Q 3
+Filter 4: ON PK Fc 5000 Hz Gain -4 dB Q 3
+Filter 5: ON PK Fc 10500 Hz Gain -2 dB Q 3
+Filter 6: ON PK Fc 12500 Hz Gain 0.5 dB Q 2
